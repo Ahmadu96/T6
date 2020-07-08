@@ -1,0 +1,5 @@
+As the lecturer said we want to sort three sizes of box
+e.g 10x10, 20x20 and 30x30
+I used ultrasonic sensor 
+we can fix the ultrasonic sensor at the top of the entrance of the sorting line. The sensor will measure the distance for example the distance is 95 cm between the sensor and the box if the box size is 30x30, 85cm if the box is 20x20 and 75cm if the box is 10x10.
+according to the distance the servo motor will rotate at specific angle.
